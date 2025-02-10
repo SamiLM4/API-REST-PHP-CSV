@@ -1,0 +1,11 @@
+nome;email;senha;recebeValeTransporte;cargo
+Lucas Oliveira;lucas.oliveira@example.com;;Sim;Analista de Marketing
+Isabela Santos;isabela.santos@example.com;;Sim;Desenvolvedora Frontend
+Pedro Almeida;pedro.almeida@example.com;;Nãoo;Gerente de Vendas
+Carolina Lima;carolina.lima@example.com;;Sim;Designer Gráfico
+Gabriel Silva;gabriel.silva@example.com;;Não;Analista de Recursos Humanos
+Ana Souza;ana.souza@example.com;;Não;Coordenadora de Projetos
+Mateus Pereira;mateus.pereira@example.com;;Sim;Analista de Qualidade
+Mariana Costa;mariana.costa@example.com;;Sim;Analista Financeiro
+Rafael Rodrigues;rafael.rodrigues@example.com;;Sim;Desenvolvedor Full Stack
+Juliana Ferreira;juliana.ferreira@example.com;;Não;Especialista em Suporte Técnico
